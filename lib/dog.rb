@@ -11,5 +11,4 @@ def breed=(breed)
 end 
 def breed 
   @breed 
-end 
-snoopy.breed = "beagle"
+end
