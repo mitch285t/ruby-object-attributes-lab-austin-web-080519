@@ -12,4 +12,4 @@ end
 def breed 
   @breed 
 end
-name = Dog.new 
+
