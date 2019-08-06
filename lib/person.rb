@@ -7,4 +7,8 @@ end
 def name 
   @name
 end 
-end
+def job=(job)
+  @job = job 
+end 
+beyonce = Person.new 
+beyonce.job
