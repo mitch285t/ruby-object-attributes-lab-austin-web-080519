@@ -11,5 +11,6 @@ def breed=(breed)
 end 
 def breed 
   @breed 
-end
+end 
+snoopy = Dog.new 
 
