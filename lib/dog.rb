@@ -12,4 +12,5 @@ end
 def breed 
   @breed 
 end 
-Snoopy = Dog.new 
+snoopy = Dog.new 
+snoopy.breed = "Beagle"
